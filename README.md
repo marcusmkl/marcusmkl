@@ -1,4 +1,4 @@
-# 〽️ seyonari
+# ❇️ seyonari
 
 <div align="center">
 
