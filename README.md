@@ -11,6 +11,8 @@ A **Second Year Computer Engineering Student** at PUP Manila Campus trying to do
 
 I strive to become **better** by learning _new concepts_ and gaining _useful knowledge_. 
 
+
+
 ---
 
 ## 💻 Tech (so far)
@@ -18,6 +20,17 @@ I strive to become **better** by learning _new concepts_ and gaining _useful kno
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,typescript,vscode,github,autocad,figma,notion,)](https://skillicons.dev)
 
 ---
+
+## 💡 Core Competencies (to be continued..?)
+
+* **Team Leadership:** Good leadership and the necessary skills to manage a team.
+
+* **Critical Thinking & Problem-Solving:** Capable of quickly diagnosing root causes in both systems and teamwork dynamics, ensuring solutions are effective, scalable, and support team velocity.
+
+* **Collaboration:** I actively contribute to team environments, sharing knowledge, and ensuring open communication across the project.
+
+* **Great Person:** I personally think I am a great and kind person overall - easygoing and someone you can come to and rely on anytime.
+
 
 ## 🔗 Link with me!
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
