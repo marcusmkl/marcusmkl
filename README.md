@@ -1,4 +1,4 @@
-# 〽️ About Me: seyonari
+# 〽️ seyonari
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 A **Second Year Computer Engineering Student** at PUP Manila Campus trying to do his best to become a **Software** or **Network** Engineer.
 
-I strive to become **better** by learning _new concepts_ and gaining _useful knowledge_. 
+I strive to become **better** by learning **new concepts** and gaining **useful knowledge**. 
 
 
 
