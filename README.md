@@ -1,4 +1,4 @@
-# ❇️ seyonari
+# ❇️ goodbye, halcyon days
 
 <div align="center">
 
@@ -6,12 +6,9 @@
   
 </div>
 
+Heyyaa! I'm a **Second Year Computer Engineering Student** at PUP Manila Campus trying to do his best to become a **Software** or **Network** Engineer.
 
-A **Second Year Computer Engineering Student** at PUP Manila Campus trying to do his best to become a **Software** or **Network** Engineer.
-
-I strive to become **better** by learning **new concepts** and gaining **useful knowledge**. 
-
-
+I strive to **improve** and be a **better version** of myself.
 
 ---
 
@@ -31,7 +28,6 @@ I strive to become **better** by learning **new concepts** and gaining **useful 
 
 * **Great Person:** I personally think I am a great and kind person overall - easygoing and someone you can come to and rely on anytime.
 
-
 ## 🔗 Link with me!
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
 
@@ -40,7 +36,6 @@ I am someone **eager** to connect with people so feel free to **reach out, offer
 **Discord**: seyiris
 
 **Gmail**: abrio.marcusmikel@gmail.com
-
 
 <!--
 **marcusmkl/marcusmkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
