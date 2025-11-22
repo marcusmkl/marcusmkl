@@ -6,9 +6,10 @@
   
 </div>
 
+
 A **Second Year Computer Engineering Student** at PUP Manila Campus trying to do his best to become a **Software** or **Network** Engineer.
 
-I strive to become **better** by learning new concepts and gaining knowledge. 
+I strive to become **better** by learning _new concepts_ and gaining _useful knowledge_. 
 
 ---
 
@@ -21,7 +22,7 @@ I strive to become **better** by learning new concepts and gaining knowledge.
 ## 🔗 Link with me!
 [![My Skills](https://skillicons.dev/icons?i=discord,gmail)](https://skillicons.dev)
 
-I am someone eager to connect with people so feel free to reach out, offer some advice and tips, and maybe even learn together! 
+I am someone **eager** to connect with people so feel free to **reach out, offer some advice and tips**, and maybe even **learn together**! 
 
 **Discord**: seyiris
 
